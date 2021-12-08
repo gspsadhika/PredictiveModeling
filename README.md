@@ -1,0 +1,4 @@
+# PredictiveModeling
+
+Developed a predictive modeling project to predict the used car price for Craigslist posted advertisements. The main objective is to discover and predict interesting relationships and patterns and fully execute a predictive model on the used car’s dataset. 
+Have selected ‘Used Car dataset’ from Kaggle website that consists of columns like price, condition, manufacturer, latitude/longitude, and many other categories. We have performed SEMMA process (Sample, Explore, Modify, Model, Assess) and applied data cleanup, data preprocessing, data visualizations and executed relevant multiple regression models to come up with a best performing model. The intention of building a best model is to provide valid business insights by predicting the best prices for used cars based on the manufacturer, fuel type, model, and other variables into consideration. Using this model, the customers would benefit by not overpaying for the used cars
